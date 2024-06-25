@@ -1,0 +1,13 @@
+[package]
+name = "serialkey-manager"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+rsa = "0.6"
+rand = "0.8.5"
+base64 = "0.13"
+sha2 = "0.10"
+
+[lib]
+path = "src/lib.rs"
