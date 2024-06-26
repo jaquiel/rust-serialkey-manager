@@ -1,6 +1,6 @@
 # serialkey-manager
 
-The serialkey-manager is a simple crate for generating, signing, and verifying product keys using RSA cryptography.
+The serialkey-manager is a simple crate for generating, signing, and verifying product keys using RSA cryptography, based in [SerialKey.Manager](https://github.com/jaquiel/SerialKey.Manager) (.NET).
 
 ## Features
 
